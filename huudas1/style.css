@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-items>ul li{
+    padding: 16px;
+    margin: 0;
+    list-style-type: none;
+    font-size: 16px;
+    color: #394149;
+    text-align: right top;
+}
+.button{
+    background-color: 
+    #f58a076c 10%;
+    background: #F58A071A;
+    color: #F58A07;
+    border-radius: 31px;
+    display: inline-block;
+    padding: 30px 18px;
+}
+.nav-items{
+    margin-left: auto;
+    display: flex;
+}
+.nav-items ul{
+    display: flex;
+}
+.header{
+    background-color: #DCEAF5;
+    top: 84px;
+    height: 703px;
+    width: 1933px;
+}
